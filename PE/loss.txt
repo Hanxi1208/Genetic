@@ -1,0 +1,16 @@
+Norm_ReLu_20_64_64_128_128_128_128_128_64_32
+min_train_loss:0.0543
+min_val_loss:0.0832
+none_ReLu_20_64_64_128_128_128_128_128_64_32
+test_loss:0.0756
+none_ReLu_20_64_64_128_128_128_128_128_64_32
+test_loss:0.0756
+none_ReLu_20_64_64_128_128_128_128_128_64_32
+test_loss:0.0756
+none_ReLu_20_64_64_128_128_128_128_128_64_32
+test_loss:0.0756
+none_ReLu_20_32_64_128_64_32
+min_train_loss:0.0673
+min_val_loss:0.0831
+none_ReLu_20_32_64_128_64_32
+test_loss:0.0750
